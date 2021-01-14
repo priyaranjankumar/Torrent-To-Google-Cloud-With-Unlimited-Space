@@ -17,7 +17,7 @@ Click the badge which says 'Open in Colab' and follow directions there.
 
 1.  **How to get more disk space**:
 
-    Go to <a href="href=http://td.fastio.me/" target="_parent"><img src="https://www.svgrepo.com/show/176750/google-drive-social-media.svg" width="10" height="10" alt="Open In Colab"/> Link</a>
+    Go to <a href="http://td.fastio.me/" target="_parent"><img src="https://www.svgrepo.com/show/176750/google-drive-social-media.svg" width="10" height="10" alt="Open In Colab"/> Link</a>
 
     Put your Gmail ID and name of shared Drive.
 
